@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dreisdev/word-decoder-project/static/css/main.6937c514.css",
-    "main.js": "/dreisdev/word-decoder-project/static/js/main.a8763033.js",
-    "static/media/imageSearch.svg": "/dreisdev/word-decoder-project/static/media/imageSearch.c693efe6f1c410b81e8c524d60bbc83a.svg",
-    "index.html": "/dreisdev/word-decoder-project/index.html",
-    "main.6937c514.css.map": "/dreisdev/word-decoder-project/static/css/main.6937c514.css.map",
-    "main.a8763033.js.map": "/dreisdev/word-decoder-project/static/js/main.a8763033.js.map"
+    "main.css": "/word-decoder-project/static/css/main.6937c514.css",
+    "main.js": "/word-decoder-project/static/js/main.c6f4788c.js",
+    "static/media/imageSearch.svg": "/word-decoder-project/static/media/imageSearch.c693efe6f1c410b81e8c524d60bbc83a.svg",
+    "index.html": "/word-decoder-project/index.html",
+    "main.6937c514.css.map": "/word-decoder-project/static/css/main.6937c514.css.map",
+    "main.c6f4788c.js.map": "/word-decoder-project/static/js/main.c6f4788c.js.map"
   },
   "entrypoints": [
     "static/css/main.6937c514.css",
-    "static/js/main.a8763033.js"
+    "static/js/main.c6f4788c.js"
   ]
 }
